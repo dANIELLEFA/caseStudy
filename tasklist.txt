@@ -12,3 +12,10 @@ Searches book and picks it
 Clicks end call
 Clicks feedback emoji
 Click submit
+
+Child Senerio
+Click accept
+watch book get read
+press end call
+Clicks feedback emoji
+Click submit
