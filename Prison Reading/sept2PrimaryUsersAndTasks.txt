@@ -1,0 +1,21 @@
+a)
+The primary users of the the system are incarcerated parents and children/families.
+The children are going to be young, and have an adult with them.
+The adult on the other end is going to be a parent.
+Program is meant for users with any level of computer experience, users have to be literate.
+
+b)
+For the inmate:
+Log on, choose contact, start the call, choose a book,
+read book (they can turn pages and return to book selection), log off.
+
+For the kid:
+Receive call, accept or deny call, get read to, and log off.
+
+c)
+Inmate Harbor has been approved for the reading app, he has no experience with computers, the
+correctional officers help him log on for the first time, he sends a call to his kid,
+he then selects a book and reads to his kid.
+
+A kid receives a call from their parent, the kid accepts the call with their grandparent's supervision,
+the kid gets a book read to them, and then ends the call.
